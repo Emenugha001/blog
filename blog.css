@@ -123,8 +123,14 @@ a:active {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top:48rem;
+        margin-top:62rem;
         margin-left: 5rem;
-        margin-right:5rem
+        margin-right:5rem;
+    }
+}
+
+@media(max-width:1040px){
+    .container{
+    padding:10px; 
     }
 }
