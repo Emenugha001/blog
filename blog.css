@@ -14,7 +14,6 @@ body {
 }
 
 .container {
-    border: 2px black solid;
     padding:20px;
     border-radius:10px;
     box-shadow:  5px 5px 5px 5px rgba(0, 0, 0, 0.3);
@@ -71,6 +70,21 @@ body {
     margin-top:1rem;
     margin-left:1rem;
 }
+
+.footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.footer p {
+    font-size: 14px;
+}
+
 
 .gu{
     font-weight: 600;
